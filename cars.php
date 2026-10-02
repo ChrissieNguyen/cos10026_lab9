@@ -1,4 +1,6 @@
 <?php
+
+// http://localhost/cos10026_lab9/cars.php
 require_once "settings.php";
 $db_conn = @mysqli_connect($host, $user, $pwd, $sql_db);
 
